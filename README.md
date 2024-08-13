@@ -23,8 +23,8 @@ Contains 3 programs:
 
 <h3>Steering device schema:</h3>
 
-![](shcema1.png)
+![](diagram1.png)
 
 <h3>Measuring device:</h3>
 
-![](schema2.jpg)
+![](diagram2.jpg)
